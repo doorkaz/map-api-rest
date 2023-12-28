@@ -31,4 +31,4 @@ Realizado con Django REST Framework, Django, Python, HTML, CSS, JS.
 > python -m http.server 8000
 
 7. Entrar en la página web:
-> "http://localhost:8000/html/"
+> "http://localhost:8000/html/index.html"
