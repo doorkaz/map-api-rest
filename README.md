@@ -10,5 +10,23 @@ El punto sigue la estructura:
 
 ### Pasos a seguir
 
+1. Crear el entorno virtual
 > virtualenv "{nombre_del_entorno}"
 
+2. Activar el entorno virtual.
+> .\venv\Scripts\activate
+
+3. Instalar los requerimientos
+> pip install -r requirements.txt
+
+4. Entrar en la carpeta 'backend'
+> cd .\backend\
+
+5. Abrir otra consola y activar el entorno virtual:
+> .\venv\Scripts\activate
+
+6. Ejecutar el siguiente comando en consola:
+> python -m http.server 8000
+
+7. Entrar en la página web:
+> "http://localhost:8000/html/"

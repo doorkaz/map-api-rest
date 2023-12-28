@@ -1,0 +1,6 @@
+# Entorno virtual
+venv/
+
+# Backend Cache
+backend/api/__pycache__/
+backend/api/migrations/__pycache__/
