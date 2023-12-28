@@ -8,6 +8,8 @@ El punto sigue la estructura:
     tiempo: "1 de agosto 2018",
 }
 
+Realizado con Django REST Framework, Django, Python, HTML, CSS, JS.
+
 ### Pasos a seguir
 
 1. Crear el entorno virtual
