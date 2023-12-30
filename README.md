@@ -24,11 +24,14 @@ Realizado con Django REST Framework, Django, Python, HTML, CSS, JS.
 4. Entrar en la carpeta 'backend'
 > cd .\backend\
 
-5. Abrir otra consola y activar el entorno virtual:
+5. Activar el servidor.
+> python manage.py runserver
+
+6. Abrir otra consola y activar el entorno virtual:
 > .\venv\Scripts\activate
 
-6. Ejecutar el siguiente comando en consola:
+7. Ejecutar el siguiente comando en consola:
 > python -m http.server 8000
 
-7. Entrar en la página web:
+8. Entrar en la página web:
 > "http://localhost:8000/html/index.html"
